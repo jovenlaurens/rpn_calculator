@@ -1,6 +1,6 @@
 # Reverse-Polish Notation Calculator
 
-Reverse Polish Notation (RPN) calculator is a type of calculator that uses a postfix notation instead of the more traditional infix notation used by most calculators. An RPN calculator is one in which the operators appear after their respective operands, rather than between them. So, instead of computing the following: (2 + 3) _ 5, an RPN calculator would compute this equivalent expression as 2 3 + 5 _.
+Reverse Polish Notation (RPN) calculator is a type of calculator that uses a postfix notation instead of the more traditional infix notation used by most calculators. An RPN calculator is one in which the operators appear after their respective operands, rather than between them. So, instead of computing the following: (2 + 3) \* 5, an RPN calculator would compute this equivalent expression as 2 3 + 5 \*.
 
 RPN notation is convenient for several reasons. First, no parentheses are necessary since the computation is always unambiguous. Second, such a calculator is easy to implement given a stack.
 
